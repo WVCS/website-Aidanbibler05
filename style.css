@@ -1,5 +1,5 @@
 body {background-color: black}
-h1, h2, td, th, tr, {color: white;}
+h1, h2, td, th, tr {color: white;}
 h3 {color: lightblue;
 text-align: center;
 font-size: 100px;
